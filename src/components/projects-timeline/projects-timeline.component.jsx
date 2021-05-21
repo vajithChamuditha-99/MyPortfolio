@@ -101,7 +101,7 @@ const TimeLine = () => {
                     </a>
                     <a href={project.projectLinkTwo} target="_blank" rel="noopener noreferrer">
                       <Button variant="outline-dark" title="Github repo">
-                        <i className="fab fa-github-square"></i> source code-1
+                        <i className="fab fa-github-square"></i> source code-2
                       </Button><span>{"           "}</span>
                     </a>
                   </Card.Footer>

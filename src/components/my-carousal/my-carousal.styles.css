@@ -1,7 +1,4 @@
 .custom-img {
   height: 100%;
-  object-fit:initial;
-}
-.home{
-  object-fit: fill;
+  object-fit: cover;
 }

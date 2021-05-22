@@ -51,7 +51,10 @@ const TimeLine = () => {
                   <Card.Footer className="text-muted">
                     <a href={project.projectLink} target="_blank" rel="noopener noreferrer">
                       <Button variant="outline-dark" title="Github repo">
-                        <i className="fab fa-github-square"></i> source code
+                        <i className="fab fa-github-square"></i> source code-1
+                      </Button><span>{"           "}</span>
+                      <Button variant="outline-dark" title="Github repo">
+                        <i className="fab fa-github-square"></i> source code-2
                       </Button>
                     </a>
                   </Card.Footer>
@@ -96,13 +99,8 @@ const TimeLine = () => {
                   <Card.Footer className="text-muted">
                     <a href={project.projectLink} target="_blank" rel="noopener noreferrer">
                       <Button variant="outline-dark" title="Github repo">
-                        <i className="fab fa-github-square"></i> source code-1
-                      </Button><span>{"           "}</span>
-                    </a>
-                    <a href={project.projectLinkTwo} target="_blank" rel="noopener noreferrer">
-                      <Button variant="outline-dark" title="Github repo">
-                        <i className="fab fa-github-square"></i> source code-2
-                      </Button><span>{"           "}</span>
+                        <i className="fab fa-github-square"></i> source code
+                      </Button>
                     </a>
                   </Card.Footer>
                 </span>

@@ -7,10 +7,9 @@ import Profile from "../../assets/img/profile/my.jpg";
 import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
 
-
 const About = () => {
   return (
-    
+    <div id="about">
       <div className="about">
         <h1 className="pt-3 text-center font-details pb-3">ABOUT ME</h1>
         <Container>
@@ -65,7 +64,7 @@ const About = () => {
           </Row>
         </Container>
       </div>
-    
+    </div>
   );
 };
 

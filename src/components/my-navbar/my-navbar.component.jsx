@@ -20,17 +20,16 @@ const MyNavbar = () => {
           </Navbar.Brand>
         </div>
         <div>
-          <Navbar.Toggle aria-controls="responsive-navbar-nav" className="navbar-toggler">
+        <Navbar.Toggle data-toggle="collapse" className="navbar-toggler" aria-controls="responsive-navbar-nav"/>
           <Navbar.Collapse id="responsive-navbar-nav">
-            <Nav className="mr-auto ">
-              <Nav.Link className="nav-link " href="#home">Home</Nav.Link>
+            <Nav className="mr-auto navbar">
+              <Nav.Link className="nav-link active " href="#home">Home</Nav.Link>
               <Nav.Link className="nav-link active" href="#about">About</Nav.Link>
-              <Nav.Link className="nav-link" href="#skills">Skills</Nav.Link>
-              <Nav.Link className="nav-link" href="#projects">Projects</Nav.Link>
-              <Nav.Link className="nav-link" href="#contact">Contact</Nav.Link>
+              <Nav.Link className="nav-link active" href="#skills">Skills</Nav.Link>
+              <Nav.Link className="nav-link active" href="#projects">Projects</Nav.Link>
+              <Nav.Link className="nav-link active" href="#contact">Contact</Nav.Link>
             </Nav>
           </Navbar.Collapse>
-          </Navbar.Toggle>
         </div>
       </Navbar>
     </div>

@@ -31,8 +31,5 @@ div{
 }
 
 /* (B) GRID CELLS */
-.projects{
-  display: flex;
-  flex-wrap: wrap;
-}
+
 

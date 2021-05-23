@@ -4,6 +4,7 @@ import Nav from "react-bootstrap/Nav";
 import Logo from "../../assets/icons/logow.webp";
 import "./my-navbar.styles.css";
 
+
 const MyNavbar = () => {
   return (
     <div>
@@ -19,17 +20,17 @@ const MyNavbar = () => {
           </Navbar.Brand>
         </div>
         <div>
-          <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+          <Navbar.Toggle aria-controls="responsive-navbar-nav" className="navbar-toggler">
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="mr-auto ">
-              <Nav.Link className="nav-link" href="#home">Home</Nav.Link>
-              <Nav.Link className="nav-link" href="#about">About</Nav.Link>
+              <Nav.Link className="nav-link " href="#home">Home</Nav.Link>
+              <Nav.Link className="nav-link active" href="#about">About</Nav.Link>
               <Nav.Link className="nav-link" href="#skills">Skills</Nav.Link>
-              <Nav.Link className="nav-link" href="#experience">Experience</Nav.Link>
               <Nav.Link className="nav-link" href="#projects">Projects</Nav.Link>
               <Nav.Link className="nav-link" href="#contact">Contact</Nav.Link>
             </Nav>
           </Navbar.Collapse>
+          </Navbar.Toggle>
         </div>
       </Navbar>
     </div>

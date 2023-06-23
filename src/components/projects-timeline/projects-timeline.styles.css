@@ -19,8 +19,8 @@
 .image-style1 {
   width: 3em;
 } */
-div{
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+div {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 #grid-gap {
@@ -30,6 +30,23 @@ div{
   grid-row-gap: 70px;
 }
 
+.project-text {
+  text-align: justify;
+}
+
+.project-footer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.project-card {
+  width: 450px;
+  margin-bottom: 20px !important;
+}
+
+.project-container {
+  display: flex !important;
+  flex-wrap: wrap;
+}
+
 /* (B) GRID CELLS */
-
-

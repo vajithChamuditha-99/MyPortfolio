@@ -40,13 +40,18 @@ div {
 }
 
 .project-card {
-  width: 450px;
   margin-bottom: 20px !important;
 }
 
 .project-container {
   display: flex !important;
   flex-wrap: wrap;
+}
+
+@media (min-width: 980px) {
+  .project-card {
+    width: 450px;
+  }
 }
 
 /* (B) GRID CELLS */

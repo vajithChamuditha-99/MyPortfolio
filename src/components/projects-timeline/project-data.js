@@ -1,7 +1,7 @@
 import PROJ_IMAGE_01 from "../../assets/img/projects/project-image-1.jpg";
 import PROJ_IMAGE_02 from "../../assets/img/projects/project-image-2.jpg";
 import PROJ_IMAGE_03 from "../../assets/img/projects/project-image-3.jpg";
-import PROJ_IMAGE_04 from "../../assets/img/projects/project-image-4.png";
+// import PROJ_IMAGE_04 from "../../assets/img/projects/project-image-4.png";
 import PROJ_IMAGE_05 from "../../assets/img/projects/fyp.PNG";
 
 export const projects = [

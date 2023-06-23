@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8a11b73541029f1ae1cf138ac34d3a6",
+    "revision": "d5e95bb0b5068b9310eb383f9a548ba4",
     "url": "/MyPortfolio/index.html"
   },
   {
-    "revision": "24771d4984286aaa2ed3",
-    "url": "/MyPortfolio/static/css/main.f9bbf303.chunk.css"
+    "revision": "bd6b91af4daead100004",
+    "url": "/MyPortfolio/static/css/main.92a7afc9.chunk.css"
   },
   {
-    "revision": "47b292a8ec299fb014d0",
-    "url": "/MyPortfolio/static/js/2.6b854d0b.chunk.js"
+    "revision": "2344d89505a669c266dd",
+    "url": "/MyPortfolio/static/js/2.02f86b6b.chunk.js"
   },
   {
     "revision": "176c1a1a28b19c611d9701905d8d60b7",
-    "url": "/MyPortfolio/static/js/2.6b854d0b.chunk.js.LICENSE.txt"
+    "url": "/MyPortfolio/static/js/2.02f86b6b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "24771d4984286aaa2ed3",
-    "url": "/MyPortfolio/static/js/main.77c16f69.chunk.js"
+    "revision": "bd6b91af4daead100004",
+    "url": "/MyPortfolio/static/js/main.90c758a7.chunk.js"
   },
   {
     "revision": "93c65b4db3af1fa805d2",
@@ -58,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "67642a0b80f3d50277c44cde8f450e50",
     "url": "/MyPortfolio/static/media/flutter_logo.67642a0b.png"
+  },
+  {
+    "revision": "e51065cabe7691248254eaebf74e0b24",
+    "url": "/MyPortfolio/static/media/fyp.e51065ca.PNG"
   },
   {
     "revision": "0ff1a6f08182be4aa63a0b54da1b9e57",

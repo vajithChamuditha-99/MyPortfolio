@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.f9bbf303.chunk.css",
-    "main.js": "/MyPortfolio/static/js/main.77c16f69.chunk.js",
-    "main.js.map": "/MyPortfolio/static/js/main.77c16f69.chunk.js.map",
+    "main.css": "/MyPortfolio/static/css/main.92a7afc9.chunk.css",
+    "main.js": "/MyPortfolio/static/js/main.90c758a7.chunk.js",
+    "main.js.map": "/MyPortfolio/static/js/main.90c758a7.chunk.js.map",
     "runtime-main.js": "/MyPortfolio/static/js/runtime-main.bd9119cd.js",
     "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.bd9119cd.js.map",
-    "static/js/2.6b854d0b.chunk.js": "/MyPortfolio/static/js/2.6b854d0b.chunk.js",
-    "static/js/2.6b854d0b.chunk.js.map": "/MyPortfolio/static/js/2.6b854d0b.chunk.js.map",
+    "static/js/2.02f86b6b.chunk.js": "/MyPortfolio/static/js/2.02f86b6b.chunk.js",
+    "static/js/2.02f86b6b.chunk.js.map": "/MyPortfolio/static/js/2.02f86b6b.chunk.js.map",
     "index.html": "/MyPortfolio/index.html",
-    "precache-manifest.e246b9a9353cc56d364f2f135f825cca.js": "/MyPortfolio/precache-manifest.e246b9a9353cc56d364f2f135f825cca.js",
+    "precache-manifest.72b65b0d36d1eafdf6d0285297a8e833.js": "/MyPortfolio/precache-manifest.72b65b0d36d1eafdf6d0285297a8e833.js",
     "service-worker.js": "/MyPortfolio/service-worker.js",
-    "static/css/main.f9bbf303.chunk.css.map": "/MyPortfolio/static/css/main.f9bbf303.chunk.css.map",
-    "static/js/2.6b854d0b.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.6b854d0b.chunk.js.LICENSE.txt",
+    "static/css/main.92a7afc9.chunk.css.map": "/MyPortfolio/static/css/main.92a7afc9.chunk.css.map",
+    "static/js/2.02f86b6b.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.02f86b6b.chunk.js.LICENSE.txt",
     "static/media/Java_logo.png": "/MyPortfolio/static/media/Java_logo.711f654d.png",
     "static/media/React_Native_Logo.png": "/MyPortfolio/static/media/React_Native_Logo.cba0b89d.png",
     "static/media/angular-logo.png": "/MyPortfolio/static/media/angular-logo.25670a76.png",
@@ -21,6 +21,7 @@
     "static/media/css3.svg": "/MyPortfolio/static/media/css3.3707da3c.svg",
     "static/media/flask.svg": "/MyPortfolio/static/media/flask.d98463ab.svg",
     "static/media/flutter_logo.png": "/MyPortfolio/static/media/flutter_logo.67642a0b.png",
+    "static/media/fyp.PNG": "/MyPortfolio/static/media/fyp.e51065ca.PNG",
     "static/media/github.svg": "/MyPortfolio/static/media/github.0ff1a6f0.svg",
     "static/media/html-5.svg": "/MyPortfolio/static/media/html-5.676e8188.svg",
     "static/media/javascript.svg": "/MyPortfolio/static/media/javascript.2d2e31cc.svg",
@@ -45,8 +46,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.bd9119cd.js",
-    "static/js/2.6b854d0b.chunk.js",
-    "static/css/main.f9bbf303.chunk.css",
-    "static/js/main.77c16f69.chunk.js"
+    "static/js/2.02f86b6b.chunk.js",
+    "static/css/main.92a7afc9.chunk.css",
+    "static/js/main.90c758a7.chunk.js"
   ]
 }

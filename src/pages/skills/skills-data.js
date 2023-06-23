@@ -22,6 +22,8 @@ import L_JAVASCRIPT from "../../assets/img/skills/javascript.svg";
 import L_TYPESCRIPT from "../../assets/img/skills/typescript.svg";
 import L_JAVA from "../../assets/img/skills/Java_logo.png";
 import L_PYTHON from "../../assets/img/skills/python.svg";
+import L_SPRINGBOOT from "../../assets/img/skills/spring_logo.png";
+import L_CSHARP from "../../assets/img/skills/c_sharp.png";
 
 export const skills = {
   frontend: [
@@ -73,7 +75,7 @@ export const skills = {
       imgSrc: L_BOOTSTRAP,
       skillName: "Bootstrap",
     },
-    
+
     // {
     //   link: "https://react-bootstrap.github.io/",
     //   imgAltText: "React Bootstrap",
@@ -86,10 +88,15 @@ export const skills = {
       imgSrc: L_STYLED_COMPONENTS,
       skillName: "styled-components",
     },
-    
   ],
 
   backend: [
+    {
+      link: "https://spring.io/projects/spring-boot",
+      imgAltText: "Spring Boot",
+      imgSrc: L_SPRINGBOOT,
+      skillName: "Spring Boot",
+    },
     {
       link: "https://nodejs.org/en/",
       imgAltText: "Node.js",
@@ -154,7 +161,12 @@ export const skills = {
       imgSrc: L_PYTHON,
       skillName: "Python",
     },
-    
+    {
+      link: "https://learn.microsoft.com/en-us/dotnet/csharp/",
+      imgAltText: "C#",
+      imgSrc: L_CSHARP,
+      skillName: "C#",
+    },
   ],
   databases: [
     {
@@ -175,9 +187,8 @@ export const skills = {
     //   imgSrc: L_DYNAMODB,
     //   skillName: "DynamoDB",
     // },
-    
   ],
-  mobileDev : [
+  mobileDev: [
     {
       link: "https://reactnative.dev/",
       imgAltText: "Rnative",
@@ -190,6 +201,5 @@ export const skills = {
       imgSrc: L_FLUTTER,
       skillName: "Flutter",
     },
-    
   ],
 };
